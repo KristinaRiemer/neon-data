@@ -1,0 +1,517 @@
+uid,namedLocation,domainID,siteID,decimalLatitude,decimalLongitude,elevation,plotID,subplotID,endDate,divDataType,taxonID,scientificName,taxonRank,family,percentCover,heightPlantOver300cm
+6b25c42f-6403-4465-82df-5e868b07e7fc,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,2.0,N
+e824e1ab-74f2-4848-ae3c-885455f259ec,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+28a67208-4ff3-45f1-a507-0bd6a53edc64,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+9656df7d-383e-4039-a174-eb4ded504b49,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,LOTUS,Lotus sp.,genus,Fabaceae,0.5,N
+b832148b-24a5-4745-b409-73f2f3b7b270,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,8.0,N
+8a61eed5-7591-4619-b408-ce25024c6016,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,POA,Poa sp.,genus,Poaceae,55.0,N
+601fef2d-0d57-4e21-bdb4-a356698d06e3,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,0.5,N
+4d80277a-0c52-484d-9c09-f9d866cbe3c1,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,LUPIN,Lupinus sp.,genus,Fabaceae,30.0,N
+7ebc0308-b4e1-43e4-ad89-917914297799,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,3.0,N
+c8977d21-b6ba-4f26-9b07-1b02ddd1a887,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,AVENA,Avena sp.,genus,Poaceae,0.5,N
+447c1367-159f-414b-9fb9-804fb5f23f7f,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,POA,Poa sp.,genus,Poaceae,16.0,N
+015ef93d-2bc8-428c-9266-6f78f4e3cd75,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,3.0,N
+e881cc69-98d0-4abf-9993-46b5eca5afae,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,1.0,N
+e5dad291-6e33-4daa-9cd4-6856c2cb43e2,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,CABU2,Capsella bursa-pastoris (L.) Medik.,species,Brassicaceae,0.5,N
+ce6e38f9-ec61-4203-8f71-ec7847f04fb2,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,7.0,N
+234cb711-d843-4277-b0da-9417c04db4bd,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,STME2,Stellaria media (L.) Vill.,species,Caryophyllaceae,6.0,N
+fb6547f8-7afd-4a14-a7d5-c1525fffba7c,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,7.0,N
+0a6af332-9dc7-4bbe-a179-ebcb3dc86484,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,0.5,N
+f45cc8ab-ff24-44c0-9266-5935477be6f7,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,1.0,N
+33d3db54-814e-4dd0-ae28-b53e3fcff5f3,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,CACI2,Calandrinia ciliata (Ruiz & Pav.) DC.,species,Portulacaceae,1.0,N
+d03a4dc8-bbf8-462b-86ae-e9c9aa165a1a,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,TRIFOSPP,Trifolium spp.,genus,Fabaceae,6.0,N
+284393ba-9e5c-48ea-b29b-401bc6a87507,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,CAAT25,Castilleja attenuata (A. Gray) T.I. Chuang & Heckard,species,Scrophulariaceae,0.5,N
+22e15fff-3f3a-4baa-94e1-e3bf633e149f,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,CAAT25,Castilleja attenuata (A. Gray) T.I. Chuang & Heckard,species,Scrophulariaceae,0.5,N
+0d9fe2de-314d-41ae-87b3-0488bf98f5b6,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,11.0,N
+8fa581cd-be33-4988-9ba5-83ae4fc5ecb4,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,PENST,Penstemon sp.,genus,Scrophulariaceae,1.0,N
+375166fd-e30b-4314-a875-f39050ea3fb0,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,20.0,N
+889f8af6-52a2-49ad-b830-355b57739597,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,30.0,N
+92418e55-cbe3-472d-a639-f132b3190872,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,LUPIN,Lupinus sp.,genus,Fabaceae,8.0,N
+63610b34-b239-437f-a3d6-60085af4efb9,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,3.0,N
+d3b32402-bf99-47fe-b80e-244250793d16,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,TRIFOSPP,Trifolium spp.,genus,Fabaceae,6.0,N
+288955cf-fc6d-4341-9450-766b801cec05,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,CRYPT,Cryptantha sp.,genus,Boraginaceae,0.5,N
+e0cdfc79-d2a8-4293-ab19-7010c371cec9,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,8.0,N
+2ecde55f-a2e2-4852-ae9d-4eeec03bdfde,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.4.1,2019-04-10,plantSpecies,2PLANT,Unknown plant,kingdom,,2.0,N
+202b3970-35dc-460e-bba9-adeb69d5cab2,SJER_022.basePlot.div,D17,SJER,37.08,-119.72,325.7,SJER_022,32.2.1,2019-04-10,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,6.0,N
+f959e520-6ad0-40c6-a1f8-fa60285c3fa1,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,31.1.1,2019-04-10,plantSpecies,GITR2,Gilia tricolor Benth.,species,Polemoniaceae,4.0,N
+fe74c9dd-274a-48fb-9973-b617852e7b1e,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,DICAC5,Dichelostemma capitatum (Benth.) Alph. Wood ssp. capitatum,subspecies,Liliaceae,1.0,N
+131e5ebf-848a-4924-8d36-42876fb5357f,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,2.0,N
+5985cf05-8b04-4770-85f5-894f8e8681d1,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,GITR2,Gilia tricolor Benth.,species,Polemoniaceae,25.0,N
+24d4983f-dd9b-4fe5-a5db-6abf66482ed4,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,45.0,N
+677b4dc2-a7e0-4690-a1b8-98afa4106179,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,8.0,N
+4c39d0cc-ec7e-4f13-82b9-887758dc6f13,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,3.0,N
+dead9546-8520-43d4-8bee-c189e2de9f9f,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,1.0,N
+d13aed99-605e-4367-89c0-b4e1e88a3dc2,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+fe178a90-dd44-4c0b-ad34-15a29b6a34b1,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,
+678e7260-57dd-47cb-ba3b-c52da7f8641b,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,DICAC5,Dichelostemma capitatum (Benth.) Alph. Wood ssp. capitatum,subspecies,Liliaceae,1.0,
+dde1ffc5-f814-44bd-beaf-2da72d82bf7d,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,3.0,N
+96bf4ec1-31d4-4273-a4e4-7ef1998bb378,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,2.0,N
+6426ff10-d7d4-4ebb-bd4f-ad6079cb47c9,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,
+584c3096-9767-487c-a921-5e670eec14a9,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,6.0,
+d0d0d920-7137-47f0-88e2-09e78732d226,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+de367ecb-41c9-40d4-b58a-672656027918,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,CRCOC,Crassula connata (Ruiz & Pav.) A. Berger var. connata,variety,Crassulaceae,0.5,
+c0f52fc4-88c5-418e-8829-ef9c6b44214a,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,FABACE,Fabaceae sp.,family,Fabaceae,0.5,N
+2415eeeb-418e-4fe2-86ba-4c4121667ae3,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,0.5,N
+663cbf69-43b4-40a5-84a8-e38c703f5819,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,2.0,N
+59b2d733-a7a2-47ae-9d11-6cab5ee080e4,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,15.0,N
+e0336d30-b3a5-4a2a-984c-15e888684ccd,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,0.5,N
+d07bbb7d-3bcb-4df7-8a28-2e21eb3b0041,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,8.0,N
+ceddab84-baca-4d34-9076-30e58c4fa29e,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,2.0,N
+bd385e0e-998f-4f2e-9904-8f3ca23e9efc,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,2.0,N
+cff2b7f8-1624-4fe3-96dc-5911ba114492,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,1.0,N
+1fa48e9d-7eff-458e-ac47-169b1ed976fb,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,20.0,N
+304ad364-c3ed-4fd3-a24b-9aca1559cc54,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,
+1e4bd525-1d7c-462a-bdcf-2d3c6953bdf1,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,0.5,N
+5cedeef1-ce2c-4b3b-a879-51a2973d4b95,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+fa4d732c-e4db-4862-98d2-ab45ba1d5676,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,CAAT25,Castilleja attenuata (A. Gray) T.I. Chuang & Heckard,species,Scrophulariaceae,1.0,N
+a6854e2f-9f67-4faa-ad70-276645ca0554,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,18.0,N
+aabfba24-c66a-41f5-bbef-67ba066857d9,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,DICAC5,Dichelostemma capitatum (Benth.) Alph. Wood ssp. capitatum,subspecies,Liliaceae,1.0,N
+6381f9fe-72cd-4933-a60d-889cfde6b7ce,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,10.0,
+c0d8ddcc-0ca0-400c-9533-874b316497df,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,1.0,N
+1c267ed9-9c29-4c48-9548-d1ed0d832947,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,4.0,N
+c0e44ce9-3253-451f-985e-eac34a92bfca,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,1.0,
+26d89c54-16cb-45d1-8425-c7074204f570,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,4.0,
+9559c363-bfbb-4a7d-af3c-66c23d057f50,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+4a409f87-606f-4f32-ace2-737f605eb05b,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,TRIFO,Trifolium sp.,genus,Fabaceae,7.0,N
+2f8f4f13-0081-449b-a1d0-3daeec301715,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,LUPIN,Lupinus sp.,genus,Fabaceae,2.0,N
+fc761458-b373-4e43-9b9e-dca6ea226969,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,FABACE,Fabaceae sp.,family,Fabaceae,0.5,N
+f0fd0b11-87fb-41f2-acc5-f64aa534acf6,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,CACI2,Calandrinia ciliata (Ruiz & Pav.) DC.,species,Portulacaceae,2.0,N
+9613540e-877e-4af7-a1cd-fb745c36bf1e,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+e7568e4a-a8e6-434f-852b-dd0399de88d2,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,1.0,N
+f9b8d33f-5030-493f-a614-451d8b78ad8a,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,2.0,N
+a8709a23-f4c6-4fe1-980e-acc1cb4b3b23,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,3.0,N
+c8697f50-cc89-40f0-81fd-0a9b181de6fd,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+c209467a-ebdd-4c4f-93d8-0b1aea392bc7,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,0.5,N
+73abf09c-e065-48ba-be4a-c7228b68ec44,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,0.5,
+b7278388-34a3-4bb2-a32d-48c411df881e,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,12.0,
+de72a484-338d-43f9-89c2-ed2730dc9b28,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,1.0,N
+6b5f2ca9-2569-49a6-8a70-0eb4882f949b,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,4.0,N
+a2c7faad-3ee1-4e7c-b573-41648b041355,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.3.1,2019-04-15,plantSpecies,CAAT25,Castilleja attenuata (A. Gray) T.I. Chuang & Heckard,species,Scrophulariaceae,5.0,N
+b3ec4ef1-7893-4b11-a7f4-2f5b5f66b777,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,41.4.1,2019-04-15,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,3.0,
+b7d9ed66-06b6-4f32-bcfb-4462eb8e6f4a,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+0a2758e2-ef84-4b82-90dd-25aa070b9d33,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,DICAC5,Dichelostemma capitatum (Benth.) Alph. Wood ssp. capitatum,subspecies,Liliaceae,1.0,N
+b04232a2-d0fe-422e-9769-a0638f0e3f69,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.4.1,2019-04-15,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+3548305a-37ca-427f-8dd1-3062c709fb84,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,6.0,N
+2d73e041-b159-460b-a390-e3d669e9ef62,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,32.2.1,2019-04-15,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,35.0,N
+14859163-ace7-4fb6-8fbf-c614fe0bf8b4,SJER_015.basePlot.div,D17,SJER,37.08,-119.72,315.0,SJER_015,40.1.1,2019-04-15,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,10.0,N
+f4afc9ff-71cf-4e65-bc62-74e853434c26,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,0.5,N
+597f8442-7edc-4534-a28e-8689472a5ec4,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,0.5,N
+660cc12b-4598-436c-909a-6cb61b52b076,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,TRIFO,Trifolium sp.,genus,Fabaceae,0.5,N
+d6e7b593-2cf2-4cd0-830d-331c47570d32,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+b26d66fa-2d56-469e-9e8c-e29254b2b2c7,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,0.5,N
+444b96cf-6b81-4d06-abfb-212ee528a92a,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,1.0,N
+5da75362-696d-495c-a05c-bd422d956ace,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+c03fb9b0-a04c-46cb-8c55-0fada78e44f6,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,1.0,N
+47c4457a-8321-434f-86eb-c7fa33b3934c,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,40.0,N
+fe66d09b-bf24-4bd5-b11c-24d5e7fc594a,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,QUWI2,Quercus wislizeni A. DC.,species,Fagaceae,0.5,N
+bf95cc89-c18e-4d07-a944-0700c9941446,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+04e59fdd-5577-4a45-8079-832ddb355585,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,STME2,Stellaria media (L.) Vill.,species,Caryophyllaceae,1.0,N
+1ac9bd84-5e19-4b33-adf1-ad104995de46,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+a81833b9-a183-4a7b-8157-874d48e93f63,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,2.0,N
+7a2fcaab-050c-4beb-96c2-6399b35c0096,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+dbc9b98e-201a-4379-a4d9-8f7674c8b18f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+acd0d16e-7af3-4022-b841-1e502a64a4d7,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,0.5,N
+d0df7387-4817-40f6-abc1-5f241e3b709b,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,BRAR3,Bromus arenarius Labill.,species,Poaceae,1.0,N
+e07c7efe-e827-4e52-8ed4-20fb908fb82f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+ebe5143c-eb73-4ff4-a59d-6490ca703119,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,8.0,N
+9a20bb9e-ed8f-437e-b43a-bd29bd99c8a4,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,TRMA3,Trifolium macrocephalum (Pursh) Poir.,species,Fabaceae,2.0,N
+8cca6ccc-98d3-4954-92b7-d279adb70698,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,10.0,N
+6a3b4f19-97f6-4d63-9108-68fedc33d500,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,6.0,N
+c2a44907-c369-400a-961f-ec7ea2951d00,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,QUWI2,Quercus wislizeni A. DC.,species,Fagaceae,0.5,N
+c25e730f-921e-473a-9665-04ab9862614f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,3.0,N
+12b37af0-a513-41b0-bc6b-98d5f98e090c,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+bfdf83f7-a548-42ce-a599-f1e6028cc1bb,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,2.0,N
+fd9eb9ec-20b7-4fb9-a814-a24f0479394f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,6.0,N
+e87e1111-7c93-4490-9518-3763745c26a6,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,4.0,N
+c7281645-d84f-4a66-a175-f9c98bde20c9,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,5.0,N
+905d51da-958a-4f81-a53e-c0b93c53ab5a,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+da39334a-6500-40a9-808a-e9a9c40144e0,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,1.0,N
+18e2a080-f7d6-406d-8a39-876ed1f6c932,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,BRAR3,Bromus arenarius Labill.,species,Poaceae,0.5,N
+19f2439f-734a-4142-a1a8-b851aeb0196a,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,LOTUS,Lotus sp.,genus,Fabaceae,0.5,N
+2f2c272a-0c63-4976-be04-40877fcfeac9,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+93799ee5-d10d-49e2-af24-144053cf9619,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,1.0,N
+488a3d5a-0ee8-46c9-999c-b63e90fe8035,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,3.0,N
+72fb436a-4d94-423c-9104-05bfc2c541b9,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,0.5,N
+c5c42c37-6105-434f-b649-a5dd948ac5d7,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,6.0,N
+3f8cefdf-df39-4f8b-b5a0-2ca24347f0dd,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,SEVU,Senecio vulgaris L.,species,Asteraceae,0.5,N
+7705e317-5c35-4f4d-8f31-005b240f313e,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,PHCI,Phacelia cicutaria Greene,species,Hydrophyllaceae,6.0,N
+ff4c520e-23bc-4945-b6b9-c3d8d1afb634,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+ba3f2bf5-1529-43c3-b728-5effb2f43b62,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,CACO38,Caulanthus coulteri S. Watson,species,Brassicaceae,1.0,N
+e807f6b4-de59-4b7b-8ca3-e3d44a7033dc,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,CACI2,Calandrinia ciliata (Ruiz & Pav.) DC.,species,Portulacaceae,0.5,N
+1125e4a2-8420-499f-9e3a-21372cd720e1,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,3.0,N
+fd65709e-355f-4b12-9999-90f418b0dbe5,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,SEVU,Senecio vulgaris L.,species,Asteraceae,0.5,N
+7f23a570-5551-4bbb-833a-b02b9430cc39,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,10.0,N
+852dd453-0a75-46ba-9cfa-a0d3849746dd,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,1.0,N
+7b69ce21-662b-4e66-9664-cb0e750b3943,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+573fab1f-029a-4ab1-b3ad-5667236c7a2f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,PHCI,Phacelia cicutaria Greene,species,Hydrophyllaceae,4.0,N
+a4c250b5-f53a-415a-9d96-24b24345bcdc,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+0d9e8f32-0869-4984-9b1a-85b427ce8f1a,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,LUBE,Lupinus benthamii A. Heller,species,Fabaceae,0.5,N
+12876a1b-dbd9-4869-b31c-1994bd259e68,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,0.5,N
+00fc6ed8-b60f-4fd3-98f2-f58337e571e7,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,LOTUS,Lotus sp.,genus,Fabaceae,0.5,N
+38e8e86e-2a9d-47d3-aa6e-cbbd28766c75,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,ASTERA,Asteraceae sp.,family,Asteraceae,2.0,N
+5ce456c8-3f8b-458b-86cc-6182eea70e0f,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,2.0,N
+36ae3219-4503-4c70-bb50-5f9e798729b4,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+5d23388a-9ca8-4b9c-876b-65fd91fde600,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,2.0,N
+29cd34f5-2164-402e-8ace-97ac2097f81c,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,1.0,N
+ffd671c9-c884-4701-ace4-cd2295ba9360,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,1.0,N
+ad7e9750-425f-40df-9660-98e15b045d83,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,2.0,N
+2a44fd71-bef3-411f-941c-fcff15f73cda,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,12.0,N
+1db6f459-dfa3-489d-a447-a13465825211,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.4.1,2019-04-16,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,0.5,N
+8ec0610a-14b3-46d7-a875-c245f6842ab5,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,32.2.1,2019-04-16,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,2.0,N
+2daf6050-eb1c-4761-b46c-fc58ff707859,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,CEME2,Centaurea melitensis L.,species,Asteraceae,7.0,N
+279e426e-a843-4cdc-958d-d354dd7ae656,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,25.0,N
+08277355-171a-47f8-9807-e40f58899556,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,41.4.1,2019-04-16,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,5.0,N
+c9825b71-7472-4602-bc1a-a007a89fc376,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,31.1.1,2019-04-16,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+a0ab6efa-a968-40a6-806a-57b08a4d543e,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.3.1,2019-04-16,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,1.0,N
+619e8600-f23c-4edc-9d76-b21fbbec32e7,SJER_014.basePlot.div,D17,SJER,37.08,-119.72,288.6,SJER_014,40.1.1,2019-04-16,plantSpecies,CACI2,Calandrinia ciliata (Ruiz & Pav.) DC.,species,Portulacaceae,0.5,N
+22f60dfa-17ad-4500-838b-d84577738fec,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,20.0,N
+f0bae820-e775-4cdd-b22e-0983210578ea,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,18.0,N
+54b34171-cd41-4994-aa51-457c9b574121,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,ERCI6,Erodium cicutarium (L.) L'Hér. ex Aiton,species,Geraniaceae,11.0,N
+d769d80c-b8dc-4c5b-9a4b-e7ff3220d472,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,2.0,N
+23199f90-0035-4878-93b2-6faf4fd57dbb,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,TRWI3,Trifolium willdenovii Spreng.,species,Fabaceae,0.5,N
+8d62e538-69c9-4839-bbc9-2445fd222dc8,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,35.0,N
+4c066438-5135-48c1-b83f-ff9335c548d3,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,1.0,N
+b2e17072-eb67-4880-8dbd-d0a746f2b63c,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+0100f2c6-4522-474f-923c-ab5aa9b96637,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,3.0,N
+efb75e7a-2354-4902-a73f-32d70a053f6d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,2.0,N
+3fcfa7c9-3ab4-4dba-9465-e7f9089c36bc,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,7.0,N
+ba45c069-5257-4ce9-9e64-4ed46214a3a2,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,DICAC5,Dichelostemma capitatum (Benth.) Alph. Wood ssp. capitatum,subspecies,Liliaceae,0.5,N
+aa48e5c6-7598-40c3-850b-f3278ad82312,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,0.5,N
+a73e584c-6e54-4cd8-bd02-51deb52d8b09,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+bf2ef43f-542d-4df2-bfd0-e72d3f3677ed,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,0.5,N
+e0b5d8d3-6c37-4608-83cd-a3a3a5b8e340,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,17.0,N
+b77fe7b4-5458-48f7-b580-bf522fcdf09f,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,0.5,N
+45e114c5-774d-4762-9171-bbbed757cc3d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,TRWI3,Trifolium willdenovii Spreng.,species,Fabaceae,20.0,N
+83e094b9-2e56-450a-8a8f-258ebd14b156,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,0.5,N
+f07349bb-c747-41f5-976d-ad5f51741c3d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,1.0,N
+481bef7d-b25a-4461-8b6c-18164b486b50,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+814858b2-11df-4559-b777-80c70dd903f0,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,2.0,N
+8cdc3d8b-942a-4fd7-a6fb-88e4aba6d835,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,4.0,N
+b702d0ef-bba0-4469-a4c8-3dbd4eeba961,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,7.0,N
+2a8e5d4b-7184-4e31-8534-066e06b26180,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+70b97a6b-bfee-455b-bd84-377ca590ea43,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,CACI2,Calandrinia ciliata (Ruiz & Pav.) DC.,species,Portulacaceae,2.0,N
+3a3bc9f5-0fc8-4a37-8cc2-429d5288a1cc,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,LOPE,Lolium perenne L.,species,Poaceae,0.5,N
+82c1f014-93eb-4028-9fd4-065a3d1459ee,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+71e1f10c-4182-4698-9481-d9047d477f9e,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,LOPEM2,Lolium perenne L. ssp. multiflorum (Lam.) Husnot,subspecies,Poaceae,0.5,N
+bbdcbfb2-68cf-4978-9b6b-897a0d62d65a,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,2PLANT,Unknown plant,kingdom,,0.5,N
+2b7e73ef-26bd-410f-b5d5-07f42f29d58d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,10.0,N
+ffc464ef-48a3-4535-91a8-d45ddab4ce17,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+c2dd8348-71f9-4f0c-897e-ae95044d3cff,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,1.0,N
+3803c038-c506-4735-ad81-92393da63e79,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.3.1,2019-04-22,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,35.0,N
+d8188ae7-459e-423e-afd7-8976ade62c0e,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,20.0,N
+00006797-0dfd-4c3a-8ae7-321a176909cf,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,31.1.1,2019-04-22,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,3.0,N
+e2b6b74e-aae1-4ab7-9384-05c19248dcd3,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+50b033f7-feac-4233-9695-47bfbab6a190,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+4510544d-fcae-4d61-988c-053b260fd5ec,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,3.0,N
+028b0e02-e217-4f59-a8c8-d403a8699345,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,40.1.1,2019-04-22,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,3.0,N
+fe79ccbb-8ce1-4295-a181-c750eeb73365,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,41.4.1,2019-04-22,plantSpecies,MUMA2,Muilla maritima (Torr.) S. Watson,species,Liliaceae,1.0,N
+ff16d0b8-fb58-470e-81f0-1f0d92392a93,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,STME2,Stellaria media (L.) Vill.,species,Caryophyllaceae,0.5,N
+9eedcc35-405e-4b02-a273-a47dbbe56b9a,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,1.0,N
+f9e36f28-654a-4067-9b85-a066337b5303,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,0.5,N
+1a46e478-3be8-4a8e-b745-a5c8dbef70a5,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,18.0,N
+a10507e4-c7db-402f-89e4-2bb749c0e081,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,10.0,N
+6958f5ab-135a-408e-821b-96c82741f017,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,7.0,N
+839b6835-6e67-4fac-8fc6-82b495cb23d2,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+7e743455-6c44-4820-bc4d-25024c1b6a50,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,0.5,N
+18d9ff46-904d-4cf1-9490-a271bf36329b,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+6daf4848-f37e-4841-92cb-b8a02a6d877b,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+d824037a-4529-49b2-a78c-fab52470584b,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,5.0,N
+47485767-5e18-4b19-9aab-8d920846f4b4,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+2631e7c1-ca30-4116-8cc5-4ea93059bf4a,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,12.0,N
+9fb723b7-95af-48ae-afe6-35200f40a0ff,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,41.4.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+966f7ec9-d6f8-4b90-a4d4-afcbf18bf8f4,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+0e349d62-6c9f-48e5-a923-0b8c8b6f8f4d,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,2.0,N
+e351cae3-1a64-493f-a104-f7233108200b,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,4.0,N
+89e2c141-2f3c-425f-8606-bf0dab345d52,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,LUBE,Lupinus benthamii A. Heller,species,Fabaceae,4.0,N
+2d3962ab-754f-4016-8431-2391de02a473,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,CLPU2,Clarkia purpurea (W. Curtis) A. Nelson & J.F. Macbr.,species,Onagraceae,1.0,N
+fa9d946b-d3c8-4419-9884-1cc0f931d8be,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,LOPEM2,Lolium perenne L. ssp. multiflorum (Lam.) Husnot,subspecies,Poaceae,35.0,N
+7db83acd-2107-4c1e-9f5c-f0ba5922201c,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,41.4.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+04240971-c30d-48d7-b3cc-37441562508d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+f84d339a-bfbd-410b-84a9-fd0ef8292c68,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,2.0,N
+9d7147a1-60c0-4156-ace8-a7f495482af1,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,1.0,N
+8f98ab61-6261-469c-8cd6-8d6ac37295d3,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,ERCI6,Erodium cicutarium (L.) L'Hér. ex Aiton,species,Geraniaceae,10.0,N
+ee474ba6-8ce8-4f73-8768-a2e11c65273f,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,1.0,N
+bb56d123-c757-4c21-beb1-718d7e264444,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,0.5,N
+a0e47542-4c9e-4361-abc4-276a24f68700,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,7.0,N
+6a8dbae2-0e3f-49db-9f8c-e680f3cd8084,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,POACEA,Poaceae sp.,family,Poaceae,0.5,N
+5ffbf56b-ba51-40e1-9eef-0d59e0d89747,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+9a594a15-0bba-4be8-b47c-1ba0f8c10bdd,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,8.0,N
+89e4534f-4590-439f-99d1-f60d73ce4011,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,HOMA2,Hordeum marinum Huds.,species,Poaceae,15.0,N
+9a9bd59e-ea2f-44eb-8fcd-2d22fbeb57df,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,10.0,N
+6b75ddbc-8063-4a70-a97e-07422f4b5f5d,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,0.5,N
+b6c4f09f-42e1-4bf9-9828-4e0f5f13f188,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,MIMUL,Mimulus sp.,genus,Scrophulariaceae,0.5,N
+ccdb381a-4789-487b-babc-a0b27af3690a,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,2.0,N
+e4abaf52-99b9-4d4d-811c-b70cf8a616b9,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,0.5,N
+e96bef76-bd15-4374-b33d-7205b7d5aa16,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,20.0,N
+fc1b58ce-953d-4a2a-8cb6-aca800239cc2,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,2.0,N
+83ca6954-8b7a-4310-b97b-e6d387966aef,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,15.0,N
+0e785817-b25e-4f5e-aa8c-07fb9f343fbe,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,15.0,N
+3762c82c-b081-4676-81b6-30562b16b02f,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,5.0,N
+1bdae7c4-6d6a-4d76-8e33-76a31d0a3e33,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+83f85dfb-8086-407b-91fe-5f2042c733cc,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,5.0,N
+e03984a6-464f-432f-a074-27e39de1d2bc,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,0.5,N
+5e1a2e1a-568b-4da7-ad44-6b82786e2d05,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.4.1,2019-04-23,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,28.0,N
+869dc392-9ff5-415a-80ba-e226669b12ef,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+ef3f6f14-ef5e-4d3c-8c4c-980dd9712eec,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,QUWI2,Quercus wislizeni A. DC.,species,Fagaceae,0.5,N
+62dcb5fc-2701-4680-867e-78297d95d77c,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,1.0,N
+ae758261-abc7-4600-9284-cb011efce073,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,2.0,N
+9f94e6ac-5a8e-4871-be2e-e2a1bb3b9c53,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,7.0,N
+b97266b8-54c2-46b0-924e-11aa55d0b072,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,1.0,N
+c40457ec-82b3-4902-955e-641af72864b2,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,41.4.1,2019-04-23,plantSpecies,POACEA,Poaceae sp.,family,Poaceae,0.5,N
+ebb01959-528c-4de7-a751-9ed6fb4f8c61,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.4.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,5.0,N
+e47556b5-d0af-4aa9-ace1-800b27d85fc3,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,41.4.1,2019-04-23,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+3ce5a121-dba5-4391-ba88-1efd96698c34,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,41.4.1,2019-04-23,plantSpecies,CLPU2,Clarkia purpurea (W. Curtis) A. Nelson & J.F. Macbr.,species,Onagraceae,0.5,N
+e60d7cbc-35e1-4c22-9c48-7521ea4ba85f,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+671bfe00-c346-4f09-9748-f5605f5645e4,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,32.2.1,2019-04-23,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,2.0,N
+15bd747a-0133-4c46-807a-a808bd64d483,SJER_001.basePlot.div,D17,SJER,37.11,-119.72,399.7,SJER_001,32.2.1,2019-04-23,plantSpecies,HOMUL,Hordeum murinum L. ssp. leporinum (Link) Arcang.,subspecies,Poaceae,30.0,N
+b9114f05-7a01-4135-b1f3-a172a66e9be2,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,8.0,N
+d4b64390-5948-4c1e-b845-a219518ea740,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,7.0,N
+ca30ed32-147c-4b2c-a6db-25e8c05e9f14,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.3.1,2019-04-23,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,6.0,N
+7986d4b3-90cc-496d-a521-e1404d713528,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,40.1.1,2019-04-23,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+7f9772b6-71a6-4a07-8723-40a07a5f45c0,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+d935013c-84fa-4e63-af8d-8e0fb7240574,SJER_002.basePlot.div,D17,SJER,37.08,-119.74,349.6,SJER_002,31.1.1,2019-04-23,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,0.5,N
+85b6815c-2398-46e5-ab16-02b28119d5ba,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,3.0,N
+ccb5e0c6-d81c-4b50-83b4-9bf87fc34848,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,25.0,N
+6be8e173-5e1d-4b85-a8cb-e08305bcb0dc,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,7.0,N
+52e8f468-e96d-411d-87e4-100f69ebb25a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,20.0,N
+b7cca5b8-c218-4763-aca6-9a72178235b2,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,2.0,N
+119a7cc7-2cc0-40c0-881d-14292f8d0ef9,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,1.0,N
+adc8507c-ec9b-47f9-ac20-862c432a824a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,TOAR,Torilis arvensis (Huds.) Link,species,Apiaceae,1.0,N
+53dc02ee-8341-478e-906d-07221238aa5f,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+e65229ea-ae59-4d06-aacb-48aec64af0f5,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,3.0,N
+40d1a3a0-7d67-4fa4-9bdd-6e7defdbb1f1,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,0.5,N
+3b9194dd-0268-4bab-b6bc-946a426f510f,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,2.0,N
+77886045-a42d-411a-9c78-8c209ca135b4,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,TRWI3,Trifolium willdenovii Spreng.,species,Fabaceae,1.0,N
+8671c6dc-342b-4d0a-8295-cfff7b28c6d7,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,3.0,N
+868568b6-bdec-4123-97a0-f1d32bc49b5d,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,20.0,N
+12fe61ab-ea10-468d-9df0-78e1d04c9783,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,10.0,N
+5dbbd49f-0345-423e-a572-d286e468d753,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,12.0,N
+23ffede9-dec2-476b-bb5b-3733f6aed2e2,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,5.0,N
+f27d0791-f62a-4771-9535-88a72d9a8a46,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,CLPE,Claytonia perfoliata Donn ex Willd.,species,Portulacaceae,1.0,N
+3755eb25-9c06-4926-9dae-5b8d04aa2553,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,5.0,N
+88f6ff00-35a2-4bb2-9b90-bb19178d3f28,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,1.0,N
+ddbf058d-215b-4781-9293-bb939ed69ea9,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,6.0,N
+96c9dbd4-f4f7-46fe-83e4-efedf1023bf7,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,1.0,N
+fdbd3d04-f0e3-42c0-a532-39f39a391e9c,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,2.0,N
+c0f5555c-9586-41c6-8ee8-d0a27b6f7bfd,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,2.0,N
+27b7503c-cb09-414a-bb94-17a87a29197f,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,15.0,N
+d39630fa-f4e2-4e26-91d7-343d4a61bdce,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,0.5,N
+82733611-8095-45ba-be1b-4790a7451788,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,2.0,N
+ab70c1d9-eb4e-4627-b70f-58ab308fac6b,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,3.0,N
+6dc603cc-c34e-45f3-9c3c-402c438703ae,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,CRCOC,Crassula connata (Ruiz & Pav.) A. Berger var. connata,variety,Crassulaceae,0.5,N
+0979df59-9ab6-4dfc-a4d2-210539988770,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,5.0,N
+4b9592ed-b931-470d-8d89-fc885e44cf66,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,20.0,N
+afe8b69f-843e-4a3e-914f-93624d262e29,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,20.0,N
+84cb64a1-ef3c-497e-a38e-0e663007d78a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,1.0,N
+c7c12b06-78cb-4cd2-908f-faab0b3ed367,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,15.0,N
+1142671f-7dda-4306-ae95-10b9e15f79db,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,CLPU2,Clarkia purpurea (W. Curtis) A. Nelson & J.F. Macbr.,species,Onagraceae,2.0,N
+d6a7fffe-6871-4ffa-83af-59488d884169,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,5.0,N
+f56f24dd-cf2a-4e41-b044-49ac5c218032,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,35.0,N
+ce320e36-773d-4d5c-bba7-d2d1acedb16a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,CLPE,Claytonia perfoliata Donn ex Willd.,species,Portulacaceae,2.0,N
+bda3e9ad-7884-4439-a8cc-50ff85b45f42,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,0.5,N
+4f3fce13-c55d-44bd-99c7-62c348452a41,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,2.0,N
+00b92880-f087-4939-8910-ea90c4d3315c,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,41.4.1,2019-04-24,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,0.5,N
+91fe0e5c-4f7d-488a-9855-61cd8be641f9,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,MIMUL,Mimulus sp.,genus,Scrophulariaceae,0.5,N
+1807dd8a-d68f-490c-8a18-fbc6a6b44cbe,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,2.0,N
+10230dcb-2277-46f6-af76-c1e6cb62c258,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+6531843b-8fb4-4161-9b21-a22f20e758a4,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,0.5,N
+a63a20ca-0371-4833-a7db-ed7d4adf2c27,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,THCU,Thysanocarpus curvipes Hook.,species,Brassicaceae,1.0,N
+4547454d-1bc2-40c0-86ac-a1b26044c09a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,PETR7,"Pentagramma triangularis (Kaulf.) Yatsk., Windham & E. Wollenw.",species,Pteridaceae,0.5,N
+cd46a7fc-26bd-4eae-a529-0a22a52f2e1e,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.1.1,2019-04-24,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,0.5,N
+abe124ec-43bf-46bc-8ebb-db5db658df3b,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,40.3.1,2019-04-24,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,3.0,N
+a57f9d51-2a36-4293-bad6-502c5eb8f1ae,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,31.1.1,2019-04-24,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,3.0,N
+8f9be21b-8f1c-45b8-bb1b-a1b78e06beb6,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+e55d11e6-47cf-4893-9852-6d31b6985fe8,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,20.0,N
+adb71525-6630-412b-a87f-dc7ab0654ae5,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,BROMU,Bromus sp.,genus,Poaceae,0.5,N
+0f31a0c4-bc00-458a-844d-6c9ec9b70876,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,LOGA2,Logfia gallica (L.) Coss. & Germ.,species,Asteraceae,1.0,N
+d9a60ad0-ba7c-4aad-9b6f-b0fb9b0af827,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,25.0,N
+40ffb03e-5acf-441a-969b-a4dec36a5aff,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,2.0,N
+40e3605e-79fa-4464-9884-47180c8b2e4e,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,1.0,N
+4d00bd30-ee0c-4ed4-9158-3736912131a1,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,AMMEI2,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,variety,Boraginaceae,2.0,N
+a6aae3fb-dc9e-4a8a-b953-f198a11af8cd,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,10.0,N
+c8ac369a-826b-4067-a8e8-dbf93e0d8e18,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+14e78e84-3e39-481a-8029-e2b317d17462,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,1.0,N
+6152a55c-8dfb-4625-bab0-f4b1e7c5dc91,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,1.0,N
+e177919e-5e21-484f-9ce1-1368d127bdbf,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,30.0,N
+9b53ee10-3943-46dc-a47f-091ad8033221,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,GERAN,Geranium sp.,genus,Geraniaceae,0.5,N
+0e453521-48b1-41db-bf15-3a0b917624e8,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,TRIFO,Trifolium sp.,genus,Fabaceae,3.0,N
+c75019ab-d993-41ee-837c-5a126b5265c8,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,CRCOC,Crassula connata (Ruiz & Pav.) A. Berger var. connata,variety,Crassulaceae,0.5,N
+40042750-019c-4b49-98ae-cbc5b7850955,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,2PLANT,Unknown plant,kingdom,,0.5,N
+88866ec9-40e5-4c20-8b6f-46843a139873,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+026ee674-90be-4dca-b20c-43d1528d8e3a,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+a75367e5-2870-4023-b550-0a4e97779f62,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,5.0,N
+451a851b-b965-4270-98d9-2a59b54303e9,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,2.0,N
+c54a7387-bc8a-46e9-8fbd-d1e766ba6471,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,9.0,N
+df2dd526-7683-4a9a-b5a0-d4cc186aa18c,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,LETR2,Lewisia triphylla (S. Watson) B.L. Rob.,species,Portulacaceae,1.0,N
+a79d482d-5b04-46d0-a9b7-a4f8de58ff53,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,17.0,N
+7ae82378-9371-4979-98b7-b0e3d6f9004e,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+0b6f0065-fa7b-4b15-8469-041f3c48306d,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,4.0,N
+764fb987-049f-42ec-8476-6d0bde390dac,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,0.5,N
+1f324f6f-10c7-4d70-ad69-4871c0cebff2,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,10.0,N
+39be7c87-f8c7-40e0-9753-fdea8a9892ef,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,GALIU,Galium sp.,genus,Rubiaceae,0.5,N
+3135564b-4e05-4f0a-9327-6e3852353749,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,0.5,N
+0abd309b-f81a-41f0-bcf0-a07b2ed2f58a,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+c10739e8-eb4d-473f-aef2-9ca5ce8f85e0,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+456ff763-1ddd-4a57-be76-c4069e6bc81b,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,51.0,N
+43e5a0c8-c887-4205-a757-e884c2a62771,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,1.0,N
+76aa4094-6988-4b9e-a944-a85322eec942,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,3.0,N
+6b5f548b-bb49-4714-af98-4c89d841f9d3,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,0.5,N
+121caa16-362c-40fe-a039-d6d1f0ebc065,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,0.5,N
+353063dc-872c-40ac-a048-b74355675b43,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,THCU,Thysanocarpus curvipes Hook.,species,Brassicaceae,0.5,N
+9f2a4c07-ffdb-40ea-8673-dfe14a0f7d6c,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,2.0,N
+2c5d6aa8-84a8-4fbf-a140-5e7c5de7ef4c,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+832bbfbf-8dec-413a-9272-984619ad98ff,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,1.0,N
+f1e79318-a182-4135-96a9-89dc0e13fa28,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+4656266f-f1b3-4683-85e4-f266a1121761,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,1.0,N
+f9b57bab-2a7e-46fb-8127-261124656061,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,0.5,N
+f796f862-0aa9-498c-8f65-7f267bee453c,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,0.5,N
+f4cbbd21-deee-4284-8a93-66bac4e6e136,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+6829f55b-831e-46e7-824b-8b63f84aa3c7,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,2.0,N
+53a99294-2d58-4d82-b96d-2840cd2a54e2,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,TRIFO,Trifolium sp.,genus,Fabaceae,18.0,N
+b4c7b85a-7f82-40fa-9e63-098ec98323d4,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,TRIFO,Trifolium sp.,genus,Fabaceae,0.5,N
+1677e657-f02e-411e-8a0a-6db3c7f75a27,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,5.0,N
+4ba0fef8-6951-4693-ad65-e7831d79875f,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,1.0,N
+53188b8c-a79d-4922-a3e8-ba117fcb5b19,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,4.0,N
+9a58c82b-6601-4a18-8f2f-6b52e0f18ba9,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,ERCI6,Erodium cicutarium (L.) L'Hér. ex Aiton,species,Geraniaceae,0.5,N
+c8732e3d-d357-4f98-a40f-6a422be6dede,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,3.0,N
+2377b1df-01af-4751-be7d-0c97b0da31bc,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,6.0,N
+c3926b46-e458-46c5-bcc8-d35d7652f0b8,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+1a90836f-48e5-447b-add0-97ada096e801,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,5.0,N
+ff57b173-d829-43fb-94c2-7967c400078e,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,8.0,N
+68c952ce-d4fc-4db1-8856-510ebaa1f291,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,12.0,N
+486f6762-f40a-4d65-9974-bf6e46070cf6,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,0.5,N
+a5368baf-aed1-44cd-a083-e3b4adfe6c25,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,2PLANT,Unknown plant,kingdom,,0.5,N
+1071dd3b-37b8-4f9a-94ee-4c42c00768dc,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.2.1,2019-04-25,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,2.0,N
+98a705db-ee6d-4926-82c8-39c9580c01ed,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,0.5,N
+123bf6cb-199a-4c36-b166-769b4ecd0313,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+6175ec8e-0e50-427f-8aae-0198f58718f6,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,20.0,N
+039cd9d5-1e4c-48c4-879b-4ef55ea68cbd,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,PLNO,Plagiobothrys nothofulvus (A. Gray) A. Gray,species,Boraginaceae,1.0,N
+e35bdc74-077c-4d31-98f4-85503ccd445e,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,12.0,N
+9247678f-cd95-455e-904b-704e5d9149af,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,5.0,N
+cdca551c-1c91-48d2-af7f-30c35baab045,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+2938ea4e-c5e3-442c-94f4-0fcd99c4588d,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,2.0,N
+6515ee20-251b-421b-8eea-c8020c2027e5,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,1.0,N
+2ee16e97-0053-4f02-b568-8a046895a596,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+8bf6859b-66ad-4cb9-865d-1d204b4a1a92,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,22.0,N
+c549c375-feb8-4ddf-a9f4-21d908f65584,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,5.0,N
+fb8b6ea5-5a72-4b43-93c8-41ace657438d,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,30.0,N
+95ef889b-7fe8-4bb5-babe-a4f16d965a13,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,31.1.1,2019-04-25,plantSpecies,CLPU2,Clarkia purpurea (W. Curtis) A. Nelson & J.F. Macbr.,species,Onagraceae,0.5,N
+a88ac550-0354-412b-b2e3-28bb2d6e1392,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,1.0,N
+4a79d870-b06e-45bf-aaa0-e0ed468e10bb,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+ead40351-9de4-4af1-b3e2-9e1710969680,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,LAPE,Layia pentachaeta A. Gray,species,Asteraceae,1.0,N
+8bf88b8a-26a7-4ba5-8bb0-2529fecb70a9,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,4.0,N
+ef04288e-62ab-4916-bd72-8335b6b05745,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,0.5,N
+df88a6e3-ce26-49eb-bf24-d6c8326fdb1d,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,4.0,N
+a7bfffbf-5aad-4ae2-8208-c9d4b42a9ff8,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.4.1,2019-04-25,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+4f67f307-bb19-4fc5-a5b9-541fd3c207de,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+f048a831-c278-4d57-9b3d-7075d1c222c3,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,32.2.1,2019-04-25,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,0.5,N
+0b24bbd1-c4e3-4b46-9dac-45070f5ee4ff,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.4.1,2019-04-25,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,4.0,N
+fe4b8109-925d-4ba1-bd41-d7e3c41fcd88,SJER_045.basePlot.div,D17,SJER,37.11,-119.73,412.8,SJER_045,32.2.1,2019-04-25,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,1.0,N
+db033da1-2a1b-483c-89ca-43f62168a31c,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,1.0,N
+5c5658fb-e884-4358-af6a-413e5a6455fc,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+3acdaf23-90ea-4cc8-81c6-3f7df998cec7,SJER_005.basePlot.div,D17,SJER,37.12,-119.75,499.6,SJER_005,32.4.1,2019-04-25,plantSpecies,LUPIN,Lupinus sp.,genus,Fabaceae,0.5,N
+9e552852-c8b2-4dfc-8577-32afc8dfda31,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,20.0,N
+df62032d-f344-45d7-bce9-290377bda589,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,0.5,N
+093c2e08-4f76-49fe-bc88-054ea36bcf6e,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,1.0,N
+f6b4c2cc-eea0-4038-98c9-74d1058ac143,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,CLPU2,Clarkia purpurea (W. Curtis) A. Nelson & J.F. Macbr.,species,Onagraceae,0.5,N
+9ec6b950-d48a-4838-b4dd-eab0d671dbd1,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,2.0,N
+f9e8e3cf-cc25-42a2-8f0f-940fa5fbeecf,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,2.0,N
+7ccbd5b7-3807-40be-9aac-b282ff4000a4,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+67fb612d-dbdf-4b87-8011-f4ed77ab8327,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,5.0,N
+04508f40-bce3-4290-9232-e70f0fcd108b,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,PLCA2,Plagiobothrys canescens Benth.,species,Boraginaceae,2.0,N
+abbc84de-5303-4650-813b-612eae07087c,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,0.5,N
+9f6c8484-5e7f-4cac-903b-117e8c73e092,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,2PLANT,Unknown plant,kingdom,,3.0,N
+faa583b3-56a7-4fe8-a42c-cc694ad03db7,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,0.5,N
+65024da2-a79f-4820-96aa-1ec6c28e0f4d,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,1.0,N
+f477cf9c-c033-40a9-9206-3827dd271390,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+9442a7d8-a302-44e4-b664-9821d8b54470,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,5.0,N
+30533ae0-22ae-40f4-bf95-b74ac6e0b305,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,10.0,N
+f8540f8d-aa17-4966-a936-19035f1114a1,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,LOPE,Lolium perenne L.,species,Poaceae,0.5,N
+17c64ed7-8034-4c53-9409-2aff5d29ac44,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,POSE,Poa secunda J. Presl,species,Poaceae,7.0,N
+afe43013-bc11-46ae-93f8-b48b0af21856,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,0.5,N
+1955467f-4fc0-4229-9b97-c7dcaa4d53fa,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+d87116e4-e536-4215-9709-31e5b01916f1,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+066abab0-1d48-484d-a06c-3795e81d1b0f,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,PHVAH,Phacelia vallis-mortae J. Voss var. heliophila (J.F. Macbr.) J. Voss,variety,Hydrophyllaceae,1.0,N
+1358382a-3e9d-4c38-83ab-b06739e98724,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,5.0,N
+08a92965-201e-4fa9-bc86-34e3689e04b3,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,1.0,N
+a19c1989-d57b-401d-9667-a863c49872dd,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,5.0,N
+478ffe5e-0790-47ec-9459-0191cd4efa0c,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,5.0,N
+98829558-bfc5-487b-a2a1-a37d6106cc38,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,1.0,N
+50b8900a-d80c-4113-b1cb-721ab4dfe82a,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,0.5,N
+b7480ee2-de74-42dd-9bbc-aae643e31659,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,CRSE11,Croton setigerus Hook.,species,Euphorbiaceae,0.5,N
+52775cf8-9aab-49cd-9ffe-17bed07add98,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,6.0,N
+fee44949-4b14-4250-b5a3-b5c348fda189,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,2.0,N
+51548d5b-dfdc-4192-a8c0-e99fd52c6847,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,25.0,N
+ea40cfec-8466-4706-90ba-16110f2dad5c,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,3.0,N
+74da9103-1f6b-4ca4-9dbe-8d34ae5075fb,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,5.0,N
+b57c2f23-4e16-4846-9a9b-69308bb3da04,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,4.0,N
+3a92baa1-5b15-43e5-bc8d-f29c7b497f5e,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,LOGA2,Logfia gallica (L.) Coss. & Germ.,species,Asteraceae,4.0,N
+52bd275b-6213-4a3c-9a22-d72822524d21,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,1.0,N
+0997d0a1-1019-4f57-a2f6-38737229d022,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,DAPU3,Daucus pusillus Michx.,species,Apiaceae,0.5,N
+6623a11e-b7bc-4769-bd34-325a9330bcc3,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,1.0,N
+5dd0552f-f8b0-41a4-a962-7dd0c401dd4c,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,AMME,Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr.,species,Boraginaceae,2.0,N
+42aeebad-ef57-4ea3-886d-4a0469f4941b,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.1.1,2019-04-29,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,1.0,N
+7ea14c1e-c651-4107-acf7-ec558978b0a9,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,3.0,N
+c7dbb9a7-8c58-48a2-bdca-05023a012966,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,THCU,Thysanocarpus curvipes Hook.,species,Brassicaceae,0.5,N
+beb90caf-d115-4db5-903e-b09366bdade7,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+05f721f3-ab47-4206-b468-bb0c35f28cec,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,40.3.1,2019-04-29,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,3.0,N
+b5990983-57ba-4e81-a16d-f88d22d224e6,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,41.4.1,2019-04-29,plantSpecies,BRRU2,Bromus rubens L.,species,Poaceae,0.5,N
+1a88caea-bc8b-4c56-8afc-544149f3c458,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,15.0,N
+ac7170a3-4f59-4e78-b401-a592c2bd98c4,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,ERBO,Erodium botrys (Cav.) Bertol.,species,Geraniaceae,5.0,N
+1679b91b-1c8a-4ecb-be53-7a4784368169,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,GAAP2,Galium aparine L.,species,Rubiaceae,1.0,N
+7f135c52-9cdb-4a22-86a3-4df9509a4752,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,15.0,N
+0d1f3e18-1bfd-4e91-8574-028b7d56ce2a,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,7.0,N
+88d41e89-801c-48b9-bcb8-eb348cffb0ba,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,OXRA,Oxalis radicosa A. Rich.,species,Oxalidaceae,8.0,N
+055d7586-987f-4773-a0df-ad28ef08a71e,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,JUBU,Juncus bufonius L.,species,Juncaceae,1.0,N
+966e8675-c611-4bc0-a51e-05e5a32fddb2,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,TROB2,Trifolium obtusiflorum Hook. f.,species,Fabaceae,4.0,N
+12220ad3-3fe3-414b-a043-74abf26bfeae,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,TOARA,Torilis arvensis (Huds.) Link ssp. arvensis,subspecies,Apiaceae,0.5,N
+51632b7a-def0-41fa-ac08-2f6e81a7c34f,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,DAPU3,Daucus pusillus Michx.,species,Apiaceae,0.5,N
+6251891d-75b6-412b-8a71-a371395e35de,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,6.0,N
+e591ed1e-7236-4761-8cad-827af16e772b,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+0b97add0-216b-4db6-941c-d99bc113ba10,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,POACEA,Poaceae sp.,family,Poaceae,4.0,N
+3ec8d9c6-d853-42c0-b83c-edf9afb08e7f,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,15.0,N
+cfe7ddfd-d801-471d-bb2e-9c95a3982bfb,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,LOUNU,Lotus unifoliolatus (Hook.) Benth. var. unifoliolatus,variety,Fabaceae,3.0,N
+851f58b1-4c5b-4f33-b736-f28ac563b6bb,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,GAPA5,Galium parisiense L.,species,Rubiaceae,1.0,N
+7a9d8615-1e8e-48e4-ac42-a908d4274b5d,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,1.0,N
+ae5b3746-2896-445c-80e0-20f969ee52ed,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,CAPY2,Carduus pycnocephalus L.,species,Asteraceae,25.0,N
+f067d84b-b42f-4fd5-84d5-2f9ec0e6eaa6,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,1.0,N
+13f32d85-06a1-4a16-af5e-a0c4701d2977,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,1.0,N
+0c999a57-cc10-424c-8fd8-9889fcacce95,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,5.0,N
+acf32be1-8090-4cb3-a488-71d07f5bbc46,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,TRWI3,Trifolium willdenovii Spreng.,species,Fabaceae,13.0,N
+4f4953c3-b08d-4d37-8526-691e74f0feeb,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,CRCOC,Crassula connata (Ruiz & Pav.) A. Berger var. connata,variety,Crassulaceae,0.5,N
+a2bfec36-667c-459d-b2f0-600303f19fa2,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,7.0,N
+cb5de7c0-2365-43dd-8dc0-018e4baae1e3,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,LOPE,Lolium perenne L.,species,Poaceae,2.0,N
+4d8b4d1f-671c-4757-b439-574410483b45,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,10.0,N
+e5a920c2-f911-4d0e-b048-1046775c3516,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,3.0,N
+3bd5210c-4e16-4053-b29f-a48a2c405555,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,0.5,N
+a9e60fec-2ca8-4d2c-b55d-c64b30adde37,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+acd80dc4-b1f7-4340-a7ce-c0b0cc589cc1,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,BRHO2,Bromus hordeaceus L.,species,Poaceae,5.0,N
+6302dd0c-7168-462b-b3ab-4509a3568ec1,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,1.0,N
+418173f6-a21d-41bc-816d-a2477cedfcab,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,CLARK,Clarkia sp.,genus,Onagraceae,0.5,N
+3d6f1101-35f9-4c0c-9bad-052059c01845,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,2.0,N
+81200c32-6627-49ca-be5c-a089f966c4f8,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,POAN,Poa annua L.,species,Poaceae,0.5,N
+450ec697-3452-42f8-8f4c-7132d1643d51,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,BRTE,Bromus tectorum L.,species,Poaceae,0.5,N
+e21f469f-74b1-44db-aa5b-5a258892d3ea,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,CEGL2,Cerastium glomeratum Thuill.,species,Caryophyllaceae,2.0,N
+0647525a-df73-4e53-afcf-a1ac0068d29a,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+20ba25c4-6149-4ec8-ba67-bf29fee30309,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,AVBA,Avena barbata Pott ex Link,species,Poaceae,0.5,N
+9991ae21-9a62-4f96-b042-94312f98a21c,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,PTDR,Pterostegia drymarioides Fisch. & C.A. Mey.,species,Polygonaceae,5.0,N
+923fdc5c-5ce8-4202-9439-8524fd88c0de,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,AICA,Aira caryophyllea L.,species,Poaceae,1.0,N
+514c3dfd-4789-48e4-b61a-fb741ab9d5ac,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,SIGA,Silene gallica L.,species,Caryophyllaceae,0.5,N
+010abc94-2880-45c5-8bff-f0627d1521e2,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,LOGA2,Logfia gallica (L.) Coss. & Germ.,species,Asteraceae,0.5,N
+c3d2f8b2-26df-494c-9705-c2116b9029f5,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+8270787b-4c50-40e5-b1f7-44921a2d3250,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,VULPI,Vulpia sp.,genus,Poaceae,0.5,N
+c1c68d4a-bae9-48c7-b93b-580f003bb1e6,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,0.5,N
+95b2d444-6e8c-4939-bc71-d543f158b5f2,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,TRWI3,Trifolium willdenovii Spreng.,species,Fabaceae,0.5,N
+f2b32665-dff2-457d-9ba3-8cf19ebca622,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,HOMU,Hordeum murinum L.,species,Poaceae,3.0,N
+8716ce81-ed13-4a25-b564-9f877fc82f7d,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,BRMI2,Briza minor L.,species,Poaceae,0.5,N
+f566cfa9-3706-436f-9e22-f548e27d0dcd,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,2PLANT,Unknown plant,kingdom,,0.5,N
+5ce2d510-143b-4d91-b43a-4771c51c56ee,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,GEMO,Geranium molle L.,species,Geraniaceae,0.5,N
+2c26b7a5-c3e6-419f-9439-9c45ca7c4270,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,MIGU,Mimulus guttatus DC.,species,Scrophulariaceae,4.0,N
+af3e4f11-ee17-4e28-98aa-cd26243c61e8,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,TRMI4,Trifolium microcephalum Pursh,species,Fabaceae,1.0,N
+4ac6179d-927a-46c2-9c81-3aceca3063bc,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,TRCI,Trifolium ciliolatum Benth.,species,Fabaceae,3.0,N
+1a7c822e-fb1b-454c-a5db-4eccaf62b203,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.1.1,2019-04-30,plantSpecies,BRDI3,Bromus diandrus Roth,species,Poaceae,45.0,N
+08e47bdd-eeb4-4ecf-9bcb-ad527d9f897f,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,6.0,N
+0d97d14f-2c7d-4a54-944e-380e6a741739,SJER_004.basePlot.div,D17,SJER,37.11,-119.75,383.3,SJER_004,31.1.1,2019-04-30,plantSpecies,LYHY3,Lythrum hyssopifolium L.,species,Lythraceae,0.5,N
+5305bfbd-aed4-4467-95ec-dde61bd3210b,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,BRASSI,Brassicaceae sp.,family,Brassicaceae,0.5,N
+f7157fe8-b0ae-44c7-9f6c-78554293a84e,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,31.1.1,2019-04-30,plantSpecies,HYGL2,Hypochaeris glabra L.,species,Asteraceae,2.0,N
+44ab9d7f-d341-406e-98de-e7a68f76187e,SJER_046.basePlot.div,D17,SJER,37.11,-119.73,432.2,SJER_046,40.3.1,2019-04-30,plantSpecies,LUBI,Lupinus bicolor Lindl.,species,Fabaceae,0.5,N
